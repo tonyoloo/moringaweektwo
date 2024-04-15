@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/moringaweektwo/static/css/main.fbc00891.css",
+    "main.js": "/moringaweektwo/static/js/main.77185950.js",
+    "index.html": "/moringaweektwo/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.77185950.js"
+  ]
+}
