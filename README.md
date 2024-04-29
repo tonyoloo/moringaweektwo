@@ -15,9 +15,9 @@ A simple web application that takes a user's birthday and calculates the day of 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### [live preview](https://tonyoloo.github.io/moringapi//)
+### [live preview](https://tonyoloo.github.io/moringaweektwo//)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://tonyoloo.github.io/moringaweektwo/)
 
 ### Features
 
