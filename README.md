@@ -39,4 +39,3 @@ Start the server
 <pre>yarn start</pre>
 
 
-# moringapiassignment
